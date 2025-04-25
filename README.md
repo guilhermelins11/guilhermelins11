@@ -1,9 +1,7 @@
-## 👨🏻‍💻 Desenvolvedor FullStack | Fundador @YouRoadmaps
+## 👨🏻‍💻 Desenvolvedor FullStack 
 
-🎓 Cursando Ciência da Computação (7º/8º semestre) na Universidade São Judas Tadeu  
+🎓 Cursando Analise e Desenvolvimento de Sistemas (3°/4° Periodo) no Centro Universitario Mauricio de Nassau  
 💡 Apaixonado por transformar ideias em soluções com código, propósito e disciplina  
-🚀 Fundador da [YouRoadmaps](https://youroadmaps.com) – onde já formei +100 alunos em programação  
-🎥 Crio conteúdo educativo e de humor sobre programação nas redes sociais  
 
 ---
 
@@ -16,7 +14,7 @@
 
 ## 📊 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermelins11&show_icons=true&theme=dracula)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red)
 
 ---
 
