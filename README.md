@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelins11&layout=compact&hide_border=dracula&title_color=ff0000&text_color=ffffff&bg_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelins11&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080)](https://github.com/guilhermelins11)
 
 ---
 
