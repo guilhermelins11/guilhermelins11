@@ -25,3 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelins11&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080)](https://github.com/guilhermelins11)
 
 ---
+## 📫 Where Find Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-lins-354b91290)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gui.gleyce@gmail.com)
