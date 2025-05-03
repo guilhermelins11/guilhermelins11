@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 Desenvolvedor FullStack 
 
-🎓 Cursando Analise e Desenvolvimento de Sistemas (3°/4° Periodo) no Centro Universitario Mauricio de Nassau  
-💡 Apaixonado por transformar ideias em soluções com código, propósito e disciplina  
+🎓 Cursando Analise e Desenvolvimento de Sistemas (3°/4° Periodo) no Centro Universitario Mauricio de Nassau.  
+💡 Apaixonado em transformar ideias em projetos com soluções rentaveis, usando sempre a disciplina como pilar principal. 
 
 ---
 
