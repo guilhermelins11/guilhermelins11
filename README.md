@@ -1,19 +1,20 @@
-## 👨🏻‍💻 Desenvolvedor FullStack 
+# 🧬 Desenvolvedor FullStack 
 
-🎓 Cursando Analise e Desenvolvimento de Sistemas (3°/4° Periodo) no Centro Universitario Mauricio de Nassau.  
-💡 Apaixonado em transformar ideias em projetos com soluções rentaveis, usando sempre a disciplina como pilar principal. 
+🎓 Cursando Análise e Desenvolvimento de Sistemas (3°/4° Período) no Centro Universitário Maurício de Nassau.  
+👨🏽‍💻 Apaixonado em transformar ideias em projetos com soluções rentáveis, usando sempre a disciplina como pilar principal. 
 
 ---
 
 ## 🚀 Stacks
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
-![Kanban](https://img.shields.io/badge/-Kanban-2E3A59?style=flat-square&logo=trello&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
@@ -26,6 +27,3 @@
 ## 📫 Where Find Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-lins-354b91290)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gui.gleyce@gmail.com)
-
-
-
