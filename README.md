@@ -10,7 +10,7 @@ Apaixonado pela resolução de problemas usando a tecnologia como pilar principa
 
 ## Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,git,react,mongodb,mysql,npm,postman,linux,py,django,obsidian)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,react,java,mongodb,mysql,npm,postman,linux,py,django,obsidian)](https://skillicons.dev)<br>
 
 ##  Github Stats
 
