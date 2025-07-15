@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Antony Guilherme Santos Lins
 
-```Adm e TI @grupomateus ```
+```Operador de Sistemas e Suporte @grupomateus ```
 
 Estudante de Analise e Desenvolvimento de Sistemas (3°/5° Semestre) no Centro Universitario Mauricio de Nassau.<br>
 Apaixonado pela resolução de problemas usando a tecnologia como pilar principal de desenvolvimento com o proposito de aprimorar minhas habilidades e evoluir junto com os desafios aplicando a lógica. Na vida e na programação, o importante é sempre compilar conhecimento e rodar novas ideias!
