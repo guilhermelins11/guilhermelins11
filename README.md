@@ -11,7 +11,7 @@ Apaixonado pela resolução de problemas usando a tecnologia como pilar principa
 ## Stacks
 
 [![My Skills](https://skillicons.dev/icons?i=spring,nodejs,git,react,mongodb,mysql,npm,postman,linux,obsidian)](https://skillicons.dev)<br>
-
+[![AWS CLOUD PRATICIONER](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/cc98bec6-cf36-47b7-8fc1-d6d9ed759a1b/public_url)
 ##  Github Stats
 
 
