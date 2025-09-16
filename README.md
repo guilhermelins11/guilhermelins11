@@ -10,12 +10,12 @@ Apaixonado pela resolução de problemas usando a tecnologia como pilar principa
 
 ## Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=aws,nodejs,git,nextjs,mongodb,mysql,npm,postman,py,fastapi)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,nodejs,aws,git,mysql,npm,docker,postman)](https://skillicons.dev)<br>
 ##  Github Stats
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermelins11&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermelins11&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
