@@ -10,10 +10,11 @@ Apaixonado pela resolução de problemas usando a tecnologia como pilar principa
 
 ## Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,nodejs,aws,git,mysql,npm,docker,postman)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,nodejs,react,git,mysql,nodejs,postman)](https://skillicons.dev)<br>
 ##  Github Stats
-
-[![Top Langs](https://github-readmte-stats.vercel.app/api/top-langs/?username=guilhermelins11&theme=dark&layout=donut)](https://github.com/guilhermelins11/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermelins11&layout=compact&langs_count=8&theme=dark&card_width=320" />
+</a>
 
   ## 📫 Where Find Me:</p>
 
