@@ -1,7 +1,7 @@
 
 # 👨🏽‍💻 Antony Guilherme Santos Lins
 
-### Técnico de TI | Estudante de Análise e Desenvolvimento de Sistemas | Futuro Dev Full-Stack
+### Técnico de TI | Estudante de Análise e Desenvolvimento de Sistemas | Dev Full-Stack
 
 📍 Recife - PE | 🎓 Centro Universitário Maurício de Nassau (5º/5º semestre)
 
