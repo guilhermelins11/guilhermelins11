@@ -37,10 +37,6 @@ Meu objetivo é atuar como **Analista de Sistemas Júnior**, criando soluções 
 - **Fundamentos da Lógica de Programação** – Rocketseat (Set/2025)
 - **Fundamentos de Java & Spring Boot** – Rocketseat (Set/2025)
 - **MiniCurso de Java Spring** - Rocketseat (Set/2025)
----
-
-## 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelins11&layout=compact&theme=dark)
 
 ---
 
