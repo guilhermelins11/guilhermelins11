@@ -1,15 +1,14 @@
 
 # 👨🏽‍💻 Antony Guilherme Santos Lins
 
-### Técnico de TI | Estudante de Análise e Desenvolvimento de Sistemas | Dev Full-Stack
+### Analista de Suporte | Graduando em Análise e Desenvolvimento de Sistemas | Engenheiro de Software
 
-📍 Recife - PE | 🎓 Centro Universitário Maurício de Nassau (5º/5º semestre)
+📍 Recife - PE 
 
 ---
 
 ## 🚀 Sobre mim
 Sou apaixonado por tecnologia e pela resolução de problemas usando a lógica como base. Atualmente, estou em transição para **desenvolvimento de software**, com experiência em **APIs REST**, **JavaScript**, **Node.js**, **React** e **bancos de dados**.  
-Meu objetivo é atuar como **Analista de Sistemas Júnior**, criando soluções escaláveis e centradas no usuário.
 
 > 💡 "Na vida e na programação, o importante é sempre compilar conhecimento e rodar novas ideias!"
 
@@ -42,6 +41,6 @@ Meu objetivo é atuar como **Analista de Sistemas Júnior**, criando soluções 
 
 ## 📫 Onde me encontrar
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contato.antonyguilherme@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/antony-lins-354b91290/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/antonylins/)
 
 ---
