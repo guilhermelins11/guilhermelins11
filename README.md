@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e pela resolução de problemas usando a lógica c
 ---
 
 ## 🛠️ Stacks & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi,react,java,js,py,git,mysql,mongodb,postman,)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,java,js,py,git,mysql,mongodb,postman,)](https://skillicons.dev)<br>
 
 ---
 
