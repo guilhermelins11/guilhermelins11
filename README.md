@@ -1,7 +1,7 @@
 
 # 👨🏽‍💻 Antony Guilherme Santos Lins
 
-### Analista de Suporte | Graduando em Análise e Desenvolvimento de Sistemas | Engenheiro de Software
+### Engenheiro de Software | Graduando em Análise e Desenvolvimento de Sistemas 
 
 📍 Recife - PE 
 
