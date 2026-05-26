@@ -41,6 +41,6 @@ Sou apaixonado por tecnologia e pela resolução de problemas usando a lógica c
 
 ## 📫 Onde me encontrar
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contato.antonyguilherme@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/antonylins/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/antonylins)
 
 ---
