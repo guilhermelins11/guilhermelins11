@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia e pela resolução de problemas usando a lógica c
 - **[Interface Web (React + Vite)](https://github.com/guilhermelins11/api-react)**  
   Frontend para consumo da API, com componentização e integração HTTP.
   
-> 🔗 Confira mais projetos no meu [GitHub](https://github.com/guilhermelins11/).
+> 🔗 Confira mais projetos no meu [GitHub](https://github.com/guilhermelins11?tab=repositories).
 
 ---
 
